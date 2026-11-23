@@ -104,7 +104,7 @@ python -u qr_video_codec.py decode -i qr_demo.mp4 -o ./output_dir/ -p "your_pass
 ## 后续规划
 
 * 跨端解码与播放协议对齐（移动端通过相机或本地视频逐帧扫码、重组解密并打开/播放）。
-* 针对大文件的分块容错/重传或流式处理优化。
+* 针对大文件的分块容错/重传或流式处理优化(正在进行)。
 
 ## License
 
